@@ -1,0 +1,44 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.texto-menor {
+color: white;
+}
+
+.icone, .titulo{
+    color: #DAFF01;
+}
+
+.botao-lilas{
+    background-color: #9353FF;
+    border-radius: 3px;
+    padding: 10px;
+    color:#fff;
+    text-decoration: none;
+  
+ }
+
+.botao-form {
+    background-color:#9353FF;
+    color: black
+    
+}
+
+.botao-form:hover{
+    color: white;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
